@@ -26,4 +26,4 @@ Sentiment classification is a core task in Natural Language Processing (NLP) tha
    cd Sentiment-Classification-using-BERT
 2. **Clone the repository**
    ```bash
-   python train.py
+   python sentimentanalysis_code.py
